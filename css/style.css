@@ -1,0 +1,35 @@
+body{
+background-color:#060606 
+}
+TD,TH{
+border:2px solid #065BFB ;
+}
+
+ h1,th{
+text-align:center;
+text-transform:uppercase;
+color:#067DFB ;
+font-size:35px;
+
+}
+h1{
+font-size:56px;
+}
+td{
+
+color:#2980b9;font-size:25px;
+}
+#bestname{
+color:#e74445
+
+}
+button{
+background-color:#1a12bd;
+color:#fff;
+padding:15px 30px;
+margin-top:20px;
+border:none
+}
+#bobjeffreykid{
+color:#68dede;
+background-color:#031ffc}
