@@ -1,12 +1,11 @@
 body{
-background: #000000;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+/* background: url('../images/bye.jpg') no-repeat; */
+background: black;
+font-family: 'Chelsea Market', cursive;
 
 }
 TD,TH{
-border:2px solid #065BFB ;
+border:2px solid rgb(51, 173, 255) ;
 }
 
  h1,th{
@@ -20,7 +19,7 @@ h1{
 font-size:56px;
 }
 td{
-
+text-align:center;
 color:#2980b9;font-size:25px;
 }
 #bestname{
@@ -28,14 +27,21 @@ color:#e74445
 
 }
 button{
-background-color:#1a12bd;
+background-color:#FF1B04;
 color:#fff;
 padding:15px 30px;
 margin-top:20px;
 border:none
 }
-#bobjeffreykid{
+{
 color:#68dede;
 background-color:#031ffc}
 #star{
 color:#dcc400}
+
+
+
+
+
+
+   
