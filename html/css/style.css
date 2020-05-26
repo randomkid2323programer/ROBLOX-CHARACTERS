@@ -1,0 +1,47 @@
+body{
+/* background: url('../images/bye.jpg') no-repeat; */
+background: black;
+font-family: 'Chelsea Market', cursive;
+
+}
+TD,TH{
+border:2px solid rgb(51, 173, 255) ;
+}
+
+ h1,th{
+text-align:center;
+text-transform:uppercase;
+color:#067DFB ;
+font-size:35px;
+
+}
+h1{
+font-size:56px;
+}
+td{
+text-align:center;
+color:#2980b9;font-size:25px;
+}
+#bestname{
+color:#e74445
+
+}
+button{
+background-color:#FF1B04;
+color:#fff;
+padding:15px 30px;
+margin-top:20px;
+border:none
+}
+{
+color:#68dede;
+background-color:#031ffc}
+#star{
+color:#dcc400}
+
+
+
+
+
+
+   
