@@ -31,17 +31,19 @@ background-color:#FF1B04;
 color:#fff;
 padding:15px 30px;
 margin-top:20px;
-border:none
+border:none;
 }
-{
-color:#68dede;
-background-color:#031ffc}
+
 #star{
 color:#dcc400}
 
 
+ol li{
+    text-align: left;
+    font-size:20px
+}
 
-
-
-
-   
+.randomkid-white li{
+    color: #fff;
+}
+   .byetimetogo li{font-size:399px}
